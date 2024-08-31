@@ -12,4 +12,14 @@
         <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Contracts\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\CADeditor.Application\CADeditor.Application.csproj" />
+      <ProjectReference Include="..\CADeditor.Domain\CADeditor.Domain.csproj" />
+      <ProjectReference Include="..\CADeditor.Persistence\CADeditor.Persistence.csproj" />
+    </ItemGroup>
+
 </Project>

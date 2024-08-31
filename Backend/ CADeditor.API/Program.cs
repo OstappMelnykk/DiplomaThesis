@@ -26,3 +26,4 @@ public class Program
         app.Run();
     }
 }
+git add *
