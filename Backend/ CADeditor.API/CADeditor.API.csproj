@@ -13,10 +13,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Contracts\" />
-    </ItemGroup>
-
-    <ItemGroup>
       <ProjectReference Include="..\CADeditor.Application\CADeditor.Application.csproj" />
       <ProjectReference Include="..\CADeditor.Domain\CADeditor.Domain.csproj" />
       <ProjectReference Include="..\CADeditor.Persistence\CADeditor.Persistence.csproj" />
