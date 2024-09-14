@@ -3,6 +3,11 @@
 
 ### Angular ###
 ## Angular ##
+
+./run_electron.txt
+
+Frontend/.angular
+Frontend/node_modules
 # compiled output
 dist/
 tmp/
@@ -15,8 +20,7 @@ bower_components/
 
 # IDEs and editors
 .idea/
-Frontend/.angular
-Frontend/node_modules
+
 # misc
 .sass-cache/
 connect.lock/
