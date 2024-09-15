@@ -3,6 +3,11 @@
 
 ### Angular ###
 ## Angular ##
+
+./run_electron.txt
+
+Frontend/.angular
+Frontend/node_modules
 # compiled output
 dist/
 tmp/
