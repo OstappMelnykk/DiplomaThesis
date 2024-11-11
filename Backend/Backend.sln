@@ -1,34 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CADeditor.Domain", "CADeditor.Domain\CADeditor.Domain.csproj", "{12A0F65C-B3D0-4471-9BD8-74B0A361B89B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CADeditor.Persistence", "CADeditor.Persistence\CADeditor.Persistence.csproj", "{34FE65B1-D378-40C3-BF8B-8565C0FBB50C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CADeditor.Application", "CADeditor.Application\CADeditor.Application.csproj", "{690B2537-9414-4B20-BF4D-1FB3E0D9F2E1}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CADeditor.API", " CADeditor.API\CADeditor.API.csproj", "{73AFD1CD-39C6-43CF-99A4-6D1FC65004D1}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{12A0F65C-B3D0-4471-9BD8-74B0A361B89B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{12A0F65C-B3D0-4471-9BD8-74B0A361B89B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{12A0F65C-B3D0-4471-9BD8-74B0A361B89B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{12A0F65C-B3D0-4471-9BD8-74B0A361B89B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{34FE65B1-D378-40C3-BF8B-8565C0FBB50C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{34FE65B1-D378-40C3-BF8B-8565C0FBB50C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{34FE65B1-D378-40C3-BF8B-8565C0FBB50C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{34FE65B1-D378-40C3-BF8B-8565C0FBB50C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{690B2537-9414-4B20-BF4D-1FB3E0D9F2E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{690B2537-9414-4B20-BF4D-1FB3E0D9F2E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{690B2537-9414-4B20-BF4D-1FB3E0D9F2E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{690B2537-9414-4B20-BF4D-1FB3E0D9F2E1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{73AFD1CD-39C6-43CF-99A4-6D1FC65004D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{73AFD1CD-39C6-43CF-99A4-6D1FC65004D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{73AFD1CD-39C6-43CF-99A4-6D1FC65004D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{73AFD1CD-39C6-43CF-99A4-6D1FC65004D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
